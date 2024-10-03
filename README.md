@@ -18,7 +18,9 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 
 An interactive dashboard designed to compare living conditions across various countries, using key metrics like GDP per capita, cost of living, rent affordability, groceries, and restaurant pricing. This tool helps users weigh their options for relocation based on personal lifestyle goals.
 
-[![Global Living Conditions](https://github.com/ditasila/Power-BI-Dashboard/raw/main/path_to_your_thumbnail_image1.jpg)](https://github.com/ditasila/Power-BI-Dashboard/raw/main/Cost%20of%20Living.mov)
+
+https://github.com/user-attachments/assets/3ffca684-6bda-4f7b-9662-c170f3968afe
+
 
 ---
 
@@ -26,7 +28,10 @@ An interactive dashboard designed to compare living conditions across various co
 
 A comprehensive dashboard highlighting a 171% increase in crimes against women in India over the past 20 years, including cases of rape, kidnapping, and domestic violence. The dashboard visually represents the states most affected, utilizing vibrant gradient sparklines for enhanced data presentation.
 
-[![Crime Against Women](https://github.com/ditasila/Power-BI-Dashboard/raw/main/path_to_your_thumbnail_image2.jpg)](https://github.com/ditasila/Power-BI-Dashboard/raw/main/Criminality%20Againts%20Women%20in%20India.mov)
+
+
+https://github.com/user-attachments/assets/fa70a6ad-4d7a-4f28-a7b9-d9076023687e
+
 
 ---
 
@@ -34,7 +39,9 @@ A comprehensive dashboard highlighting a 171% increase in crimes against women i
 
 My first Power BI dashboard created from scratch, utilizing Python for data cleaning and SQL for analysis. This report features two dashboards: one detailing customer characteristics and another highlighting product attributes. A video demonstration showcases the process and results.
 
-[![Makeup and Skincare 2024](https://github.com/ditasila/Power-BI-Dashboard/raw/main/path_to_your_thumbnail_image3.jpg)](https://github.com/ditasila/Power-BI-Dashboard/raw/main/Top%20Beauty%20%26%20Cosmetics%20Products%20Worldwide.mov)
+
+https://github.com/user-attachments/assets/e05a8420-853a-4fc0-bb93-6870a3bfb6f7
+
 
 
 ---
