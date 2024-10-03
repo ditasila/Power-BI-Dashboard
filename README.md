@@ -18,7 +18,7 @@ Welcome to my personal Power BI portfolio repository! Here you will find a colle
 
 An interactive dashboard designed to compare living conditions across various countries, using key metrics like GDP per capita, cost of living, rent affordability, groceries, and restaurant pricing. This tool helps users weigh their options for relocation based on personal lifestyle goals.
 
-![-](https://github.com/ditasila/Power-BI-Dashboard/blob/1a191546a50d23a67ee2d99c7b9dd34d15b7b58c/Cost%20of%20Living.mov)
+[![Global Living Conditions](https://github.com/ditasila/Power-BI-Dashboard/raw/main/path_to_your_thumbnail_image1.jpg)](https://github.com/ditasila/Power-BI-Dashboard/raw/main/Cost%20of%20Living.mov)
 
 ---
 
@@ -26,7 +26,7 @@ An interactive dashboard designed to compare living conditions across various co
 
 A comprehensive dashboard highlighting a 171% increase in crimes against women in India over the past 20 years, including cases of rape, kidnapping, and domestic violence. The dashboard visually represents the states most affected, utilizing vibrant gradient sparklines for enhanced data presentation.
 
-![-](https://github.com/ditasila/Power-BI-Dashboard/blob/1a191546a50d23a67ee2d99c7b9dd34d15b7b58c/Criminality%20Againts%20Women%20in%20India.mov)
+[![Crime Against Women](https://github.com/ditasila/Power-BI-Dashboard/raw/main/path_to_your_thumbnail_image2.jpg)](https://github.com/ditasila/Power-BI-Dashboard/raw/main/Criminality%20Againts%20Women%20in%20India.mov)
 
 ---
 
@@ -34,7 +34,8 @@ A comprehensive dashboard highlighting a 171% increase in crimes against women i
 
 My first Power BI dashboard created from scratch, utilizing Python for data cleaning and SQL for analysis. This report features two dashboards: one detailing customer characteristics and another highlighting product attributes. A video demonstration showcases the process and results.
 
-![-](https://github.com/ditasila/Power-BI-Dashboard/blob/1a191546a50d23a67ee2d99c7b9dd34d15b7b58c/Top%20Beauty%20%26%20Cosmetics%20Products%20Worldwide.mov)
+[![Makeup and Skincare 2024](https://github.com/ditasila/Power-BI-Dashboard/raw/main/path_to_your_thumbnail_image3.jpg)](https://github.com/ditasila/Power-BI-Dashboard/raw/main/Top%20Beauty%20%26%20Cosmetics%20Products%20Worldwide.mov)
+
 
 ---
 
@@ -43,13 +44,3 @@ My first Power BI dashboard created from scratch, utilizing Python for data clea
 If you have any questions, feedback, or collaboration opportunities, please feel free to reach out to me. You can contact me via email at [ditasila@gmail.com](mailto:ditasila@gmail.com) or connect with me on LinkedIn at [Annisa Ditasila](https://www.linkedin.com/ditasila).
 
 Thank you for visiting my Data Analysis Portfolio! I hope you find my projects informative and insightful.
-
-
-## License
-[<ins><b>©2024 Annisa Ditasila. All rights reserved</b></ins>](https://www.linkedin.com/ditasila)
-
-
-
-
- 
- 
